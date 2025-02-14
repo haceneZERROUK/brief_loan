@@ -60,7 +60,7 @@ Le modèle sera intégré dans un système de production pour être utilisé en 
 
 ## Logo
 
-![Van ThorZer Logo](/home/zerrouk/Téléchargements/je_veux_un_logo_d_entreprise_dont_le_nom_est_Van_ThorZer_corp_et_il_faut_que_ce_soit_représenté_par_un_marteau_avec_comme_couleur_le_noir_et_blanc_je_veux_que_çe_soit_plus_dans_un_style_celte-removebg(1).png)
+![Van ThorZer Logo](/Logo_Vanthorzer.png)
 
 ---
 
