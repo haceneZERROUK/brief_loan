@@ -8,8 +8,8 @@ Van ThorZer est une entreprise de data science spécialisée dans la prévision 
 
 L'objectif de ce projet est de prédire la probabilité qu'une entreprise, qui sollicite un prêt garanti par la SBA, soit capable de le rembourser. Il s'agit d'un problème de **classification binaire**, où les sorties possibles sont :
 
-- **1** : Le prêt doit être accordé (l'entreprise sera capable de rembourser)
-- **0** : Le prêt ne doit pas être accordé (l'entreprise fera défaut)
+- **P I F (1)** : Le prêt doit être accordé (l'entreprise sera capable de rembourser)
+- **CHGOFF (0)** : Le prêt ne doit pas être accordé (l'entreprise fera défaut)
 
 ### Datasets
 
